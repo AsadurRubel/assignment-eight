@@ -1,0 +1,121 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://i.ibb.co/WsXt7js/The-Catcher-in-the-Rye.jpg",
+    "review": "The Catcher in the Rye is a novel by J. D. Salinger, partially published in serial form in 1945–1946 and as a novel in 1951. A classic novel originally published for adults, it has since become popular among adolescent readers for its themes of teenage angst and alienation.",
+    "totalPages": 224,
+    "rating": 4.4,
+    "category": "Literary Fiction",
+    "tags": ["Coming of Age", "Modern Classic"],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  },
+  {
+    "bookId": 2,
+    "bookName": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "image": "https://i.ibb.co/0mydSfz/The-Girl-with-the-Dragon-Tattoo.jpg",
+    "review": "The Girl with the Dragon Tattoo is a psychological thriller novel by Swedish author Stieg Larsson, which was published posthumously in 2005 to become an international bestseller. It is the first book of the Millennium series.",
+    "totalPages": 590,
+    "rating": 4.4,
+    "category": "Mystery",
+    "tags": ["Thriller", "Crime"],
+    "publisher": "Norstedts Förlag",
+    "yearOfPublishing": 2005
+  },
+  {
+    "bookId": 3,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://i.ibb.co/zRn7FcL/The-Great-Gatsby.jpg",
+    "review": "The Great Gatsby is a 1925 novel by American writer F. Scott Fitzgerald. Set in the Jazz Age on Long Island, near New York City, the novel depicts first-person narrator Nick Carraway's interactions with mysterious millionaire Jay Gatsby and Gatsby's obsession to reunite with his former lover, Daisy Buchanan.",
+    "totalPages": 180,
+    "rating": 4.5,
+    "category": "Classic Fiction",
+    "tags": ["Romance", "Drama"],
+    "publisher": "Charles Scribner's Sons",
+    "yearOfPublishing": 1925
+  },
+  {
+    "bookId": 4,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://i.ibb.co/JB3wskb/To-Kill-a-Mockingbird.jpg",
+    "review": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. Instantly successful, widely read in high schools and middle schools in the United States, it has become a classic of modern American literature, winning the Pulitzer Prize. The plot and characters are loosely based on Lee's observations of her family, her neighbours and an event that occurred near her hometown of Monroeville, Alabama, in 1936, when she was ten.",
+    "totalPages": 324,
+    "rating": 4.8,
+    "category": "Literary Fiction",
+    "tags": ["Coming of Age", "Legal Drama"],
+    "publisher": "J. B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+
+  {
+    "bookId": 5,
+    "bookName": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "image": "https://i.ibb.co/bBG4wvZ/Sisters.jpg",
+    "review": "In 'The Girl on the Train', Paula Hawkins weaves a gripping tale of psychological suspense that keeps readers on the edge of their seats from start to finish. The story follows Rachel, a troubled alcoholic who becomes entangled in a missing persons investigation. As Rachel's unreliable narration unfolds, the reader is drawn deeper into a web of lies, deceit, and betrayal. Hawkins masterfully builds tension with each twist and turn, making it nearly impossible to put the book down. The characters are flawed yet compelling, each with their own secrets and motivations. With its atmospheric setting and complex plot, 'The Girl on the Train' is a must-read for fans of thrillers and mysteries alike.",
+    "totalPages": 336,
+    "rating": 4.2,
+    "category": "Mystery",
+    "tags": ["Suspense", "Psychological"],
+    "publisher": "Riverhead Books",
+    "yearOfPublishing": 2015
+  },
+  {
+    "bookId": 6,
+    "bookName": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "image": "https://i.ibb.co/f4kRmwc/Gone-with-the-Wind.jpg",
+    "review": "Set against the backdrop of the American Civil War, 'Gone with the Wind' is a sweeping epic of love, loss, and survival. Margaret Mitchell's vivid prose brings to life the struggles of Scarlett O'Hara, a headstrong Southern belle determined to overcome the devastation of war and reclaim her lost wealth and status. As Scarlett navigates the complexities of her relationships with the enigmatic Rhett Butler and the honorable Ashley Wilkes, she must confront her own flaws and insecurities. Mitchell's richly drawn characters and lush descriptions transport the reader to the antebellum South, immersing them in a world of lavish parties, plantation life, and societal upheaval. 'Gone with the Wind' is a timeless classic that continues to captivate readers with its epic scope and emotional depth.",
+    "totalPages": 1037,
+    "rating": 4.6,
+    "category": "Historical Fiction",
+    "tags": ["Romance", "Drama"],
+    "publisher": "Macmillan Publishers",
+    "yearOfPublishing": 1936
+  },
+  {
+    "bookId": 7,
+    "bookName": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "image": "https://i.ibb.co/3sszwb5/The-Lord-of-the-Rings.jpg",
+    "review": "The Lord of the Rings is an epic high fantasy novel by the English author and scholar J. R. R. Tolkien. Set in Middle-earth, the world at some distant time in the past, the story began as a sequel to Tolkien's 1937 children's book The Hobbit, but eventually developed into a much larger work.",
+    "totalPages": 1178,
+    "rating": 4.9,
+    "category": "Fantasy",
+    "tags": ["Adventure", "High Fantasy"],
+    "publisher": "Allen & Unwin",
+    "yearOfPublishing": 1954
+  },
+  {
+    "bookId": 8,
+    "bookName": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "image": "https://i.ibb.co/jLYVW7Z/Harry-Potter-and-the-Philosopher-s-Stone.jpg",
+    "review": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry.",
+    "totalPages": 332,
+    "rating": 4.7,
+    "category": "Fantasy",
+    "tags": ["Magic", "Adventure"],
+    "publisher": "Bloomsbury",
+    "yearOfPublishing": 1997
+  },
+  {
+    "bookId": 9,
+    "bookName": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "image": "https://i.ibb.co/gmN5jjN/The-Da-Vinci-Code.jpg",
+    "review": "The Da Vinci Code is a mystery thriller novel by Dan Brown. It follows symbologist Robert Langdon and cryptologist Sophie Neveu after a murder in the Louvre Museum in Paris, when they become involved in a battle between the Priory of Sion and Opus Dei over the possibility of Jesus Christ having been a companion to Mary Magdalene.",
+    "totalPages": 454,
+    "rating": 4.3,
+    "category": "Mystery",
+    "tags": ["Thriller", "Conspiracy"],
+    "publisher": "Doubleday",
+    "yearOfPublishing": 2003
+  }
+
+]
